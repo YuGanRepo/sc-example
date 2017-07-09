@@ -17,7 +17,7 @@
     </modules>
 
     <packaging>pom</packaging>
-    <name>${project.name}</name>
+    <name>${project.artifactId}</name>
     <description>Spring Cloud Parent</description>
 
 
