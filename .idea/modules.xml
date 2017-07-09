@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-config/sc-config.iml" filepath="$PROJECT_DIR$/sc-config/sc-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-monitor/sc-monitor.iml" filepath="$PROJECT_DIR$/sc-monitor/sc-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-parent.iml" filepath="$PROJECT_DIR$/sc-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-registry/sc-registry.iml" filepath="$PROJECT_DIR$/sc-registry/sc-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-zipkin/sc-zipkin.iml" filepath="$PROJECT_DIR$/sc-zipkin/sc-zipkin.iml" />
+    </modules>
+  </component>
+</project>
