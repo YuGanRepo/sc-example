@@ -14,6 +14,7 @@
         <module>sc-monitor</module>
         <module>sc-zipkin</module>
         <module>api-gateway</module>
+        <module>auth-service</module>
     </modules>
 
     <packaging>pom</packaging>
