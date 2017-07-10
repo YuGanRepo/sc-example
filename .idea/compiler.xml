@@ -12,6 +12,8 @@
         <module name="sc-monitor" />
         <module name="sc-registry" />
         <module name="sc-zipkin" />
+        <module name="service-a" />
+        <module name="service-b" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +25,8 @@
       <module name="sc-parent" target="1.8" />
       <module name="sc-registry" target="1.8" />
       <module name="sc-zipkin" target="1.8" />
+      <module name="service-a" target="1.8" />
+      <module name="service-b" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,7 +1,7 @@
 spring:
   application:
     name: auth-service
- cloud:
+  cloud:
     config:
       uri: http://123.57.134.123:8888
       fail-fast: true

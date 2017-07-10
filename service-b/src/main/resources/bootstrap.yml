@@ -1,6 +1,6 @@
 spring:
   application:
-    name: auth-service
+    name: service-b
   cloud:
     config:
       uri: http://123.57.134.123:8888
